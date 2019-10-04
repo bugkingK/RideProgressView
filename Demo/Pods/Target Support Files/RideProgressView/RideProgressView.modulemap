@@ -1,0 +1,6 @@
+framework module RideProgressView {
+  umbrella header "RideProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}

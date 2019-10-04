@@ -1,0 +1,16 @@
+PODS:
+  - RideProgressView (0.0.1)
+
+DEPENDENCIES:
+  - RideProgressView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RideProgressView
+
+SPEC CHECKSUMS:
+  RideProgressView: 8b891992f94d5a6a87a258e34ef1c911a3bd264d
+
+PODFILE CHECKSUM: dce3b3e6c51998a3649a43b991882602aab111e0
+
+COCOAPODS: 1.7.2
